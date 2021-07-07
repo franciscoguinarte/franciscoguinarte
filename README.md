@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ### ⚡ Fun fact
-I really love speak about Star Wars and I can spend hours in conversations about this subject
+I really love speak about Star Wars and I can spend hours in conversations about this subject 😅😅😅
 
 ### 🤓 What I've been learning
 I've been focused on Java and Spring Framework, APIs and concepts like REST, Architecture and all about backend development
