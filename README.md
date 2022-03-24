@@ -43,7 +43,7 @@ You can reach me on [Linkedin](https://www.linkedin.com/in/francisco-guinarte/) 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoguinarte&hide=html,javascript,css,hack,ejs&layout=compact&show_icons=true&theme=dracula" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoguinarte&hide=html,css,hack,ejs&layout=compact&show_icons=true&theme=dracula" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=franciscoguinarte&hide=contribs&show_icons=true&theme=dracula" /></td>
     </tr>   
   </table>
