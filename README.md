@@ -1,7 +1,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Francisco and I'm a software developer currently working at [Sensedia](https://br.sensedia.com/). 
+My name is Francisco and I'm a software developer currently working at [BoaCompra](https://boacompra.com). 
 
 <!--
 **franciscoguinarte/franciscoguinarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I really love speak about Star Wars and I can spend hours in conversations about this subject 😅😅😅
 
 ### 🤓 What I've been learning
-I've been focused on Javascript, Java and Spring Framework, APIs and concepts like REST, Architecture and all about backend development
+I've been focused on PHP, Java and Spring Framework, Kotlin, APIs and concepts like REST, Architecture and all about backend development
 
 ### 📫 How to get in touch
 You can reach me on [Linkedin](https://www.linkedin.com/in/francisco-guinarte/) or in another link below. Let's talk about Star Wars, HQs and , by the end, programming
