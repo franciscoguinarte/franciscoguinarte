@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="150px" height = "50px">
 
 
 My name is Francisco and I'm a software developer currently working at [BoaCompra](https://boacompra.com). 
