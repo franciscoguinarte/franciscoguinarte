@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I really love speak about Star Wars and I can spend hours in conversations about this subject 😅😅😅
 
 ### 🤓 What I've been learning
-I've been focused on PHP, Java and Spring Framework, Kotlin, APIs and concepts like REST, Architecture and all about backend development
+I've been focused on Java and Spring Framework, Kotlin, APIs and concepts like REST, Architecture and all about backend development
 
 ### 📫 How to get in touch
 You can reach me on [Linkedin](https://www.linkedin.com/in/francisco-guinarte/) or in another link below. Let's talk about Star Wars, HQs and , by the end, programming
